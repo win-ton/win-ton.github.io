@@ -1,22 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/Choppa.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Saul Gonzalez",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "Recent Masters Graduate"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Social links and email",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
